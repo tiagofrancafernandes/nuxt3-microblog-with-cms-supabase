@@ -30,3 +30,6 @@ logs
 *.log
 *.out
 _ide_helper*
+
+# Local Netlify folder
+.netlify

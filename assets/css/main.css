@@ -1,0 +1,9 @@
+/* @config '../../tailwind.config.js'; */
+@import 'tailwindcss';
+@custom-variant dark (&:where(.dark, .dark *));
+
+/*
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+*/
